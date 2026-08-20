@@ -10,7 +10,7 @@ I'm a Data Analyst with a background in Construction Technology and Management, 
 - Google Sheets
 
 ## My Projects
-- [Car Sales Performance Dashboard] ()
+- [Car Sales Performance Dashboard] (https://github.com/kwekuu/Car-Sales-Performance-Analysis)
 
 ## Currently Learning
 - Intermediate Python
